@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 25, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/el-3eshra-ma-tehon-companionship-is-not-easily-forgotten/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Commercial Licensing for El 3eshra Ma Tehon – Companionship is not easily forgotten.](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
